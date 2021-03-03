@@ -1,0 +1,1 @@
+import Page from "./js/components/Page.js";
